@@ -3,7 +3,10 @@ i'm a senior at Carnegie Mellon University, majoring in CS.
 
 i love learning about computers & making things with them!
 
-- 🔭 currently working on: [**nand2tetris**](https://www.nand2tetris.org/), where you learn how a computer works by building one from the bottom up (NAND gates!).
+### currently working on:
+
+- [**nand2tetris**](https://www.nand2tetris.org/), where you learn how a computer works by building one from the bottom up (NAND gates!).
+- [**frontend-mentor**](https://frontendmentor.io/profile/jchanke), to practice building front-ends from screenshots.
 
 ### some things i've made/contributed to
 
