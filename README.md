@@ -11,9 +11,9 @@ i love learning about computers & making things with them!
 ### some things i've made/contributed to
 
 - [**mixtape50**](https://mixtape50.onrender.com), a whimsical website that spells out a message using song titles, as a Spotify playlist (try some samples!)
-- a mock-up website for a [**BibleProject**](https://github.com/jchanke/interview-challenge-web) video series, originally for an interview challenge
+- a mock-up website for a [**BibleProject**](https://github.com/jchanke/interview-challenge-web) video series, which I wanted to try as an interview challenge.
 - [**fullstackopen**](https://github.com/jchanke/fullstackopen), a [full-stack web development course](https://fullstackopen.com/en/)  by the University of
-  Helsinki.
+  Helsinki to explore back-end technologies like Apollo GraphQL, TanStack Query and Form, React Router, Redux, etc.
   
   some project sites I made for this are:
   - [patientor](https://fullstackopen-patientor-ucm1.onrender.com/), a web-app for patient medical records
