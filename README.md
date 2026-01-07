@@ -11,6 +11,7 @@ i love learning about computers & making things with them!
 ### some things i've made/contributed to
 
 - [**mixtape50**](https://mixtape50.onrender.com), a whimsical website that spells out a message using song titles, as a Spotify playlist (try some samples!)
+- a mock-up website for a [**BibleProject**](https://github.com/jchanke/interview-challenge-web) video series, originally for an interview challenge
 - [**fullstackopen**](https://github.com/jchanke/fullstackopen), a [full-stack web development course](https://fullstackopen.com/en/)  by the University of
   Helsinki.
   
