@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/resume-Google%20Drive?style=flat&logo=googledrive&logoColor=white&label=Google%20Drive&color=blue&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F16c9l-IS_hnGe81WoA5IY1-VTLbpYu0Os%2Fview%3Fusp%3Dsharing)
 # hello!
 i'm a senior at Carnegie Mellon University, majoring in CS.
 
@@ -24,3 +25,5 @@ i love learning about computers & making things with them!
 
 ### contact
 i love email!! and i read every one i get. if you're reading this, you should say hi! :)
+
+### resume
