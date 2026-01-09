@@ -1,4 +1,5 @@
-![Static Badge](https://img.shields.io/badge/resume-Google%20Drive?style=flat&logo=googledrive&logoColor=white&label=Google%20Drive&color=blue&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F16c9l-IS_hnGe81WoA5IY1-VTLbpYu0Os%2Fview%3Fusp%3Dsharing)
+[![Static Badge](https://img.shields.io/badge/resume-Google%20Drive?style=flat&logo=googledrive&logoColor=white&label=Google%20Drive&color=blue)](https://drive.google.com/file/d/16c9l-IS_hnGe81WoA5IY1-VTLbpYu0Os/view?usp=sharing)
+
 # hello!
 i'm a senior at Carnegie Mellon University, majoring in CS.
 
