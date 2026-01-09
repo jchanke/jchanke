@@ -26,5 +26,3 @@ i love learning about computers & making things with them!
 
 ### contact
 i love email!! and i read every one i get. if you're reading this, you should say hi! :)
-
-### resume
